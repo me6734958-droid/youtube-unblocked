@@ -1,0 +1,6 @@
+{
+  "name": "YouTube",
+  "description": "Watch, search, and discover videos, shorts, channels, and playlists with a full-featured YouTube experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
